@@ -1,3 +1,2 @@
 def foo():
-    print(
-    )
+    print(print('Hello'))
